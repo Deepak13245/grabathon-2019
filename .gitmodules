@@ -1,0 +1,6 @@
+[submodule "api/grab_api"]
+	path = api/grab_api
+	url = git@github.com:Deepak13245/grab_api.git
+[submodule "ui/Grabathon-app"]
+	path = ui/Grabathon-app
+	url = git@github.com:heisfullstacked/Grabathon-app.git
